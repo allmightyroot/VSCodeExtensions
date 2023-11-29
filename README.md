@@ -7,8 +7,8 @@ This Python script generates a list of installed Visual Studio Code extensions a
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/allmightyroot/VSCodeExtensions.git
+    cd VSCodeExtensions
     ```
 
 2. **Add Extension Names**
